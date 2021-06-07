@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap');
+body {
+    margin: 0px;
+    font-family: 'Mate SC', serif;
+}
+
+.container {
+    padding: 2rem 2rem;
+}
+
+.container-center {
+    max-width: 600px;
+    margin: auto;
+}
+
+.hero {
+    padding: 1.5rem;
+    background-color: yellow;
+    text-align: center;
+}
+
+.input-box {
+    width: 84%;
+    height: 10vh;
+    padding: 2rem;
+    margin: 1rem;
+    display: block;
+}
+
+.translate-btn {
+    background-color: yellow;
+    border: none;
+    color: Black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 1rem;
+    cursor: pointer;
+    font-family: 'Mate SC', serif;
+    font-weight: bold;
+}
+
+.output {
+    border: 2px solid black;
+    width: 84%;
+    padding: 2rem;
+    margin: 1rem;
+    height: 10vh;
+    max-height: 10vh;
+    overflow: scroll;
+    background-color: white;
+}
+
+.footer {
+    background-color: yellow;
+    padding: 3rem;
+}
+
+.translater {
+    background-image: url(https://images.wagwalkingweb.com/media/daily_wag/behavior_guides/why-dogs-like-heat/hero/Why-Dogs-Like-Heat.jpg);
+    background-size: 100% 100%;
+}
