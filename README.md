@@ -13,7 +13,7 @@ This is a web application which converts English text to Doge language.
 # Live Project
  TO view the live application [click here](https://gsc-dogetranslator.netlify.app/).
 
- This application deployed using *Netlify*
+ This application deployed using *Netlify*.
 
 ## Note
 The API used allows only 5 translations per hour.
