@@ -1,5 +1,5 @@
 # English-To-Doge-Translator
-This is a web application which converts English text to Doge language
+This is a web application which converts English text to Doge language.
 
 ## Technologies Used
 * Html5
@@ -11,7 +11,7 @@ This is a web application which converts English text to Doge language
 ![Screenshot](img/screenshot.PNG)
 
 # Live Project
- TO view the live application [click here](https://gsc-dogetranslator.netlify.app/)
+ TO view the live application [click here](https://gsc-dogetranslator.netlify.app/).
 
  This application deployed using *Netlify*
 
